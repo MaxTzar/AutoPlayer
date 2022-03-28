@@ -1,3 +1,7 @@
+Trello board: https://trello.com/b/vfM9XhuK/autoplay-project
+
+description
+
 - la classe BackgroundImage renvoie true si la sample image est à la position (i,j) dans la background image.
 attention, i et j sont ici respectivement la ligne et la colonne.
 
